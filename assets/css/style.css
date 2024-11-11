@@ -17,8 +17,8 @@ body {
   font-family: "League Spartan", sans-serif;
   /* Weights: 400, 500, 700 */
   background-color: var(--white);
-  background-image: url(/assets/img/bg-pattern-top-desktop.svg),
-    url(/assets/img/bg-pattern-bottom-desktop.svg);
+  background-image: url(/Social-proof-section/assets/img/bg-pattern-top-desktop.svg),
+    url(/Social-proof-section/assets/img/bg-pattern-bottom-desktop.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: left -1rem top, right -1rem bottom -10rem;
 }
