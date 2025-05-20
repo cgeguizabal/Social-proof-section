@@ -25,7 +25,7 @@ The design is fully responsive and adapts to smaller screens using a mobile-firs
 - HTML5
 - CSS3 (with custom properties)
 - Google Fonts (League Spartan)
-- Mobile-first responsive design
+
 ---
 ## Preview
 https://cgeguizabal.github.io/Social-proof-section/
