@@ -10,7 +10,7 @@ The layout includes:
 - Three horizontally aligned review cards with star ratings.
 - Three customer testimonials displayed in cards with names, pictures, and review text.
 
-The design is fully responsive and adapts to smaller screens using a mobile-first approach.
+
 
 ## Features
 
